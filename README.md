@@ -1,68 +1,166 @@
-<div align="center">
-  <img height="350" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" />
-</div>
+<h1 align="center">Hi 👋, I'm Joy Kumar Acharjee</h1>
+<h3 align="center">Full-Stack Developer | AI & Computer Vision Engineer | Competitive Programmer</h3>
 
-<h2 align="left">Hi 👋! My name is Joy<br><br>I'm a Web developer and Competitive Programmer, from Bangladesh</h2>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saikatcodec/count.svg?" />
-</div>
-
-<img align="right" height="150" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
-
-<h2 align="left">Tools</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
-<br clear="both" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikatcodec&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatcodec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saikatcodec&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=saikatcodec&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" />
-</div>
-
-<h2 align="left">Social Media</h2>
-
-<div align="left">
-  <a href="https://www.facebook.com/joy29940" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+<p align="center">
+  <a href="mailto:joy29940@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/joy29940/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://linkedin.com/in/joy29940">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joy29940@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://github.com/saikatcodec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br />
+---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=saikatcodec&icon=0&color=0" alt="Visitor count" />
-  </a>
-</div>
+## 👨‍💻 Professional Summary
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Motivated Computer Science undergraduate (CGPA ~3.60/4.00) with strong foundations in **Data Structures & Algorithms**, **Full-Stack Web Development**, and **Deep Learning**.  
+
+Experienced in building scalable backend systems, interactive frontend applications, and real-time computer vision solutions.  
+
+✔ Solved 1000+ programming problems  
+✔ Built production-style full-stack applications  
+✔ Developed real-time AI systems using PyTorch  
+
+Actively seeking opportunities in:
+- Software Engineering  
+- Backend Development  
+- AI / Machine Learning Engineering  
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### ⚙ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### 🤖 AI / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## 🚀 Key Projects
+
+### 📝 PaperSpace — Full-Stack Researcher Platform  
+**FastAPI | ReactJS | PostgreSQL | Playwright**
+
+- Designed scalable backend with FastAPI  
+- Implemented automated web scraping pipeline  
+- Structured relational database for efficient research data retrieval  
+- Built responsive React frontend  
+
+---
+
+### 😄 EmotionRecognizer — Real-Time Face Emotion Detection  
+**PyTorch | RetinaFace | OpenCV | Streamlit**
+
+- Developed real-time face emotion recognition system  
+- Achieved ~66.83% accuracy on test dataset  
+- Implemented low-latency inference pipeline  
+- Built interactive Streamlit web interface  
+
+---
+
+### 🌸 ClassiFlower — Deep Learning Image Classifier  
+**PyTorch | ResNet50 | Gradio**
+
+- Fine-tuned pretrained ResNet50  
+- Classified 5 flower categories  
+- Deployed interactive demo using Gradio  
+
+---
+
+### 👶 ChildVision (Thesis – Ongoing)  
+**YOLO Pose Estimation | SVM | Real-Time Monitoring**
+
+- Detects falls and risky child behavior  
+- Uses normalized human keypoints  
+- Real-time video stream processing system  
+
+---
+
+## 🏆 Competitive Programming
+
+- 🔵 Codeforces — Max Rating: 1128  
+- 🟤 CodeChef — Max Rating: 1475  
+- 🟡 LeetCode — 55+ problems solved  
+- 💪 1000+ total problems solved  
+- 🏅 2x Hackathon Participant  
+
+Strong understanding of:
+- Data Structures  
+- Algorithms  
+- Time & Space Optimization  
+- Problem Solving Under Constraints  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikatcodec&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatcodec&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saikatcodec&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Sc. (Eng.) in Computer Science & Engineering**  
+Jashore University of Science and Technology  
+2022 – 2026  
+CGPA: ~3.60 / 4.00  
+
+---
+
+## 📜 Certification
+
+Complete Computer Vision Bootcamp With PyTorch & TensorFlow (Udemy)  
+Topics: Deep Learning | Object Detection | Image Segmentation | YOLO  
+
+---
+
+## 📫 Let's Connect
+
+📍 Jashore, Bangladesh  
+📧 joy29940@gmail.com  
+🔗 linkedin.com/in/joy29940  
+💻 github.com/saikatcodec  
+
+---
+
+<p align="center">
+  🚀 Building scalable systems. 🤖 Creating intelligent solutions. 💡 Solving real-world problems.
+</p>
